@@ -12,4 +12,4 @@ elLocate.addEventListener("click",function(position){
     } else {
         alert("Geolocation is not supported")
     }
-})
+}) 
